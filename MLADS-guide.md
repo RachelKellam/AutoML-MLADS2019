@@ -24,7 +24,7 @@ Complete the following experiment set-up to prepare for the workshop
 1. Click the `Start Now` button in the **Notebooks** pane.
 ![Start Now](./Images/notebook-startnow.png)
 
-1. In the **Azure Ml gallery** pane select the **"..."** at the right of the **samples** folder and select **Clone**.
+1. In the **Azure ML gallery** pane select the **"..."** at the right of the **samples** folder and select **Clone**.
 ![Clone Samples](./Images/clone-samples.png)
 
 1. Select a folder as your target directory for the samples and click `clone` at the bottom right of the pop up.
@@ -36,27 +36,26 @@ Now your files are ready!
 
 ## AutomatedML
     
-1. In JupyterLabs, click through the following path **<your-alias>/samples/how-to-use-azureml/automated-machine-learning/forecasting-energy-demand** and open the **auto-ml-forecasting-energy-demand.ipynb** file.
-
-> [!IMPORTANT]
-> UPDATE THIS SECTION WHEN NEW NOTEBOOKS ARE IN
+1. In JupyterLabs, click through the following path **<your-alias>/samples/how-to-use-azureml/automated-machine-learning/classification-bank-marketing-all-features** and open the **auto-ml-classification-bank-marketing-all-features.ipynb** file.
 
 
 1. You can now run the notebook either by clicking the **play** icon in the top bar or by using **Shift+Enter** in the code cells of the notebook.
 
 1. The Jupyter notebook contains step by-step guidance on configuration, training and exploration of a machine learning model. **The rest of the AutomatedML section contains supplemental conceptual material to the jupyter notebook.**
 
+> [!IMPORTANT]
+> UPDATE THIS SECTION WHEN NEW NOTEBOOKS ARE IN / SLIDES ARE AVAILABLE
 
 ## HyperDrive
 
-1. In JupyterLabs, click through the following path **<your-alias>/samples/how-to-use-azureml/automated-machine-learning/forecasting-energy-demand** and open the **auto-ml-forecasting-energy-demand.ipynb** file.
- 
-> [!IMPORTANT]
-> UPDATE THIS SECTION WHEN NEW NOTEBOOKS ARE IN
+1. In JupyterLabs, click through the following path **<your-alias>/samples/how-to-use-azureml/ml-frameworks/scikit-learn/train-hyperparameter-tune-deploy-with-sklearn** and open the **train-hyperparameter-tune-deploy-with-sklearn.ipynb** file.
 
 1. You can now run the notebook either by clicking the **play** icon in the top bar or by using **Shift+Enter** in the code cells of the notebook.
 
 1. The Jupyter notebook contains step by-step guidance on configuration, training and exploration of a machine learning model. **The rest of the Hyperdrive section contains supplemental conceptual material to the jupyter notebook.**
+
+> [!IMPORTANT]
+> UPDATE THIS SECTION WHEN NEW NOTEBOOKS ARE IN / SLIDES ARE AVAILABLE
 
 ## Resources
 
