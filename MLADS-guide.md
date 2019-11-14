@@ -12,7 +12,7 @@ This workshop is split into two parts. In the first part you will use automated 
 
 This process accepts training data and configurations settings, and automatically iterates through combinations of different feature normalization/standardization methods, models, and hyperparameter settings to arrive at the best model.
 
-![Automated ML Flow](./Images\AutoML-Flow-Chart.png)
+![Automated ML Flow](./Images/AutoML-Flow-Chart.png)
 
 ## Setup
 
