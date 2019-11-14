@@ -31,28 +31,32 @@ Complete the following experiment set-up to prepare for the workshop
 ![Target Directory](./Images/target-dir.PNG)
 Now your files are ready!
 
-1. Select the `compute` tab and click on `JupyterLab`. **Your compute should already be provisioned for you.**
-
-    
-1. In JupyterLabs, click through the following path **<your-alias>/samples/how-to-use-azureml/automated-machine-learning/forecasting-energy-demand** and open the **auto-ml-forecasting-energy-demand.ipynb** file.
-![Open Folder](./Images/notebook-path.PNG)  
-
- 
-> [!IMPORTANT]
-> You can view notebooks in the **Azure ML gallery** pane but you cannot run a notebook from there.  In order to run a notebook, make sure you open the cloned version of the notebook in the **User Files** section.
+1. Select the `compute` tab and click on `JupyterLab`. **Your compute should already be provisioned for you.** This will pop out a new tab.
 
 
 ## AutomatedML
-1. Once the VM is available it will be displayed in the top toolbar.  You can now run the notebook either by using **Run all** in the toolbar, or by using **Shift+Enter** in the code cells of the notebook.
+    
+1. In JupyterLabs, click through the following path **<your-alias>/samples/how-to-use-azureml/automated-machine-learning/forecasting-energy-demand** and open the **auto-ml-forecasting-energy-demand.ipynb** file.
 
-1. The Jupyter notebook contains step by-step guidance on configuration, training and exploration of a machine learning model.
-### The rest of this section contains **supplemental
+> [!IMPORTANT]
+> UPDATE THIS SECTION WHEN NEW NOTEBOOKS ARE IN
+
+
+1. You can now run the notebook either by clicking the **play** icon in the top bar or by using **Shift+Enter** in the code cells of the notebook.
+
+1. The Jupyter notebook contains step by-step guidance on configuration, training and exploration of a machine learning model. **The rest of the AutomatedML section contains supplemental conceptual material to the jupyter notebook.**
+
 
 ## HyperDrive
 
-1. Once the VM is available it will be displayed in the top toolbar.  You can now run the notebook either by using **Run all** in the toolbar, or by using **Shift+Enter** in the code cells of the notebook.
+1. In JupyterLabs, click through the following path **<your-alias>/samples/how-to-use-azureml/automated-machine-learning/forecasting-energy-demand** and open the **auto-ml-forecasting-energy-demand.ipynb** file.
+ 
+> [!IMPORTANT]
+> UPDATE THIS SECTION WHEN NEW NOTEBOOKS ARE IN
 
-1. The Jupyter notebook contains step by-step guidance on configuration, training and exploration of a machine learning model.
+1. You can now run the notebook either by clicking the **play** icon in the top bar or by using **Shift+Enter** in the code cells of the notebook.
+
+1. The Jupyter notebook contains step by-step guidance on configuration, training and exploration of a machine learning model. **The rest of the Hyperdrive section contains supplemental conceptual material to the jupyter notebook.**
 
 ## Resources
 
@@ -62,4 +66,4 @@ Now your files are ready!
 
 1. Auto-train a forecasting model: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-auto-train-forecast 
 
-1. Azure ML, New at Ignite: https://azure.microsoft.com/en-us/blog/azure-machine-learning-ml-for-all-skill-levels/ 
+1. New at Ignite: https://azure.microsoft.com/en-us/blog/azure-machine-learning-ml-for-all-skill-levels/ 
