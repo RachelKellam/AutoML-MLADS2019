@@ -4,7 +4,6 @@
 1. [Setup](#Setup)
 1. [Part 1 - Hyperdrive](#HyperDrive)
 1. [Part 2 - Automated Machine Learning](#AutomatedML)
-1. [Resources](#Acknowledgements)
 
 
 ## Introduction
@@ -40,15 +39,19 @@ Complete the following experiment set-up to prepare for the workshop
 
 ## HyperDrive
 
-1. In Jupyter, click through the following path **your-alias/samples/python/1.0.74/how-to-use-azureml/ml-frameworks/scikit-learn/train-hyperparameter-tune-deploy-with-sklearn** and open the **train-hyperparameter-tune-deploy-with-sklearn.ipynb** file.
+1. In Jupyter, click through the following path **your-alias/samples/python/1.0.74/how-to-use-azureml/ml-frameworks/scikit-learn/training/train-hyperparameter-tune-deploy-with-sklearn** and open the **train-hyperparameter-tune-deploy-with-sklearn.ipynb** file.
 
 1. You can now run the notebook either by clicking the **play** icon in the top bar or by using **Shift+Enter** in the code cells of the notebook.
 
 > In the third cell of your notebook, set `cluster_name` = `aml-compute`
 
 1. The Jupyter notebook contains step by-step guidance on configuration, training and exploration of a machine learning model. 
+
+### HyperDrive Resources
+How to hyper parameter tune your model: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-tune-hyperparameters
  
 
+Hyper parameter tune a deep learning model: https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/training-with-deep-learning 
 
 ## AutomatedML
     
@@ -60,7 +63,7 @@ Complete the following experiment set-up to prepare for the workshop
 1. The Jupyter notebook contains step by-step guidance on configuration, training and exploration of a machine learning model. 
 
 
-## Resources
+### Automated ML Resources
 
 1. What is Automated Machine Learning? : https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-automated-ml
 
@@ -68,4 +71,4 @@ Complete the following experiment set-up to prepare for the workshop
 
 1. Auto-train a forecasting model: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-auto-train-forecast 
 
-1. New at Ignite: https://azure.microsoft.com/en-us/blog/azure-machine-learning-ml-for-all-skill-levels/ 
+1. How to understand charts and metrics: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-understand-automated-ml 
