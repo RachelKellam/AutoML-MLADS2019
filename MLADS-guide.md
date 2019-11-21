@@ -32,11 +32,11 @@ Complete the following experiment set-up to prepare for the workshop
 Now your files are ready!
 
 1. Select the `compute` tab and click on `+ New`
-![New VM](./Images/NewVM.PNG)
+![New VM](./Images/newVM.PNG)
 
 1. In `New Notebook VM Name`, put a unique name (ex. your alias) and use the default VM size that is selected. Click `create`
 
- `JupyterLab`. **Your compute should already be provisioned for you.** This will pop out a new tab.
+1. Select `JupyterLab` once your compute is provisioned.
 
 
 ## HyperDrive
