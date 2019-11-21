@@ -17,8 +17,8 @@ This process accepts training data and configurations settings, and automaticall
 ## Setup
 
 Complete the following experiment set-up to prepare for the workshop
-1. Go to https://ml.azure.com and click "Sign in"
-1. Using the credentials given to you by a moderator, sign in to the studio.
+1. Go to https://ml.azure.com and click "Sign in".
+>If you registered for the workshop online, sign in with your alias. Otherwise please see  proctor to help you get started
 
 
 1. Click the `Start Now` button in the **Notebooks** pane.
@@ -40,23 +40,21 @@ Now your files are ready!
 
 1. You can now run the notebook either by clicking the **play** icon in the top bar or by using **Shift+Enter** in the code cells of the notebook.
 
-1. The Jupyter notebook contains step by-step guidance on configuration, training and exploration of a machine learning model. **The rest of the Hyperdrive section contains supplemental conceptual material to the jupyter notebook.**
+> In the third cell of your notebook, set `cluster_name` = `aml-compute`
 
-> [!IMPORTANT]
-> In the third cell of your notebook, set
-`cluster_name` = `cpu-cluster`
+1. The Jupyter notebook contains step by-step guidance on configuration, training and exploration of a machine learning model. 
+ 
+
 
 ## AutomatedML
     
-1. In JupyterLabs, click through the following path **<your-alias>/samples/how-to-use-azureml/automated-machine-learning/classification-bank-marketing-all-features** and open the **auto-ml-classification-bank-marketing-all-features.ipynb** file.
+1. In JupyterLabs, click through the following path **<your-alias>/samples/python/1.0.74/how-to-use-azureml/automated-machine-learning/forecasting-energy-demand** and open the **auto-ml-forecasting-energy-demand.ipynb** file.
 
 
 1. You can now run the notebook either by clicking the **play** icon in the top bar or by using **Shift+Enter** in the code cells of the notebook.
 
 1. The Jupyter notebook contains step by-step guidance on configuration, training and exploration of a machine learning model. **The rest of the AutomatedML section contains supplemental conceptual material to the jupyter notebook.**
 
-> [!IMPORTANT]
-> UPDATE THIS SECTION WHEN NEW NOTEBOOKS ARE IN / SLIDES ARE AVAILABLE
 
 ## Resources
 
