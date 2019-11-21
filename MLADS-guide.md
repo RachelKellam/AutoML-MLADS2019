@@ -59,7 +59,7 @@ Now your files are ready!
 
 1. You can now run the notebook either by clicking the **play** icon in the top bar or by using **Shift+Enter** in the code cells of the notebook.
 
-1. The Jupyter notebook contains step by-step guidance on configuration, training and exploration of a machine learning model. **The rest of the AutomatedML section contains supplemental conceptual material to the jupyter notebook.**
+1. The Jupyter notebook contains step by-step guidance on configuration, training and exploration of a machine learning model. 
 
 
 ## Resources
