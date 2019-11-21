@@ -32,7 +32,7 @@ Complete the following experiment set-up to prepare for the workshop
 Now your files are ready!
 
 1. Select the `compute` tab and click on `+ New`
-![Target Directory](./Images/NewVM.PNG)
+![New VM](./Images/NewVM.PNG)
 
 1. In `New Notebook VM Name`, put a unique name (ex. your alias) and use the default VM size that is selected. Click `create`
 
