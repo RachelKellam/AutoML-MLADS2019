@@ -36,13 +36,13 @@ Now your files are ready!
 
 1. In `New Notebook VM Name`, put a unique name (ex. your alias) and use the default VM size that is selected. Click `create`
 
-1. Select `JupyterLab` once your compute is provisioned.
+1. Select `Jupyter` once your compute is provisioned.
 ![New VM](./Images/target-dir.PNG)
 
 
 ## HyperDrive
 
-1. In JupyterLabs, click through the following path **<your-alias>/samples/python/1.0.74/how-to-use-azureml/ml-frameworks/scikit-learn/train-hyperparameter-tune-deploy-with-sklearn** and open the **train-hyperparameter-tune-deploy-with-sklearn.ipynb** file.
+1. In Jupyter, click through the following path **<your-alias>/samples/python/1.0.74/how-to-use-azureml/ml-frameworks/scikit-learn/train-hyperparameter-tune-deploy-with-sklearn** and open the **train-hyperparameter-tune-deploy-with-sklearn.ipynb** file.
 
 1. You can now run the notebook either by clicking the **play** icon in the top bar or by using **Shift+Enter** in the code cells of the notebook.
 
@@ -54,7 +54,7 @@ Now your files are ready!
 
 ## AutomatedML
     
-1. In JupyterLabs, click through the following path **<your-alias>/samples/python/1.0.74/how-to-use-azureml/automated-machine-learning/forecasting-energy-demand** and open the **auto-ml-forecasting-energy-demand.ipynb** file.
+1. In Jupyter, click through the following path **<your-alias>/samples/python/1.0.74/how-to-use-azureml/automated-machine-learning/forecasting-energy-demand** and open the **auto-ml-forecasting-energy-demand.ipynb** file.
 
 
 1. You can now run the notebook either by clicking the **play** icon in the top bar or by using **Shift+Enter** in the code cells of the notebook.
