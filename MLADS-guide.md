@@ -72,3 +72,7 @@ Hyper parameter tune a deep learning model: https://github.com/Azure/MachineLear
 1. Auto-train a forecasting model: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-auto-train-forecast 
 
 1. How to understand charts and metrics: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-understand-automated-ml 
+
+1. Explain Models: https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-machine-learning-interpretability
+
+1. Pricing / AML landing page: https://azure.microsoft.com/en-us/services/machine-learning/
