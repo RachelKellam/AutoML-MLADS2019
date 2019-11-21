@@ -40,7 +40,7 @@ Complete the following experiment set-up to prepare for the workshop
 
 ## HyperDrive
 
-1. In Jupyter, click through the following path **<your-alias>/samples/python/1.0.74/how-to-use-azureml/ml-frameworks/scikit-learn/train-hyperparameter-tune-deploy-with-sklearn** and open the **train-hyperparameter-tune-deploy-with-sklearn.ipynb** file.
+1. In Jupyter, click through the following path **your-alias/samples/python/1.0.74/how-to-use-azureml/ml-frameworks/scikit-learn/train-hyperparameter-tune-deploy-with-sklearn** and open the **train-hyperparameter-tune-deploy-with-sklearn.ipynb** file.
 
 1. You can now run the notebook either by clicking the **play** icon in the top bar or by using **Shift+Enter** in the code cells of the notebook.
 
@@ -52,7 +52,7 @@ Complete the following experiment set-up to prepare for the workshop
 
 ## AutomatedML
     
-1. In Jupyter, click through the following path **<your-alias>/samples/python/1.0.74/how-to-use-azureml/automated-machine-learning/forecasting-energy-demand** and open the **auto-ml-forecasting-energy-demand.ipynb** file.
+1. In Jupyter, click through the following path **your-alias/samples/python/1.0.74/how-to-use-azureml/automated-machine-learning/forecasting-energy-demand** and open the **auto-ml-forecasting-energy-demand.ipynb** file.
 
 
 1. You can now run the notebook either by clicking the **play** icon in the top bar or by using **Shift+Enter** in the code cells of the notebook.
