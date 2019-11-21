@@ -37,6 +37,7 @@ Now your files are ready!
 1. In `New Notebook VM Name`, put a unique name (ex. your alias) and use the default VM size that is selected. Click `create`
 
 1. Select `JupyterLab` once your compute is provisioned.
+![New VM](./Images/target-dir.PNG)
 
 
 ## HyperDrive
