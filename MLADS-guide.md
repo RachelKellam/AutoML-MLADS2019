@@ -27,9 +27,7 @@ Complete the following experiment set-up to prepare for the workshop
 1. In the **Azure ML gallery** pane select the **"..."** at the right of the **samples** folder and select **Clone**.
 ![Clone Samples](./Images/clone-samples.png)
 
-1. Select a folder as your target directory for the samples and click `clone` at the bottom right of the pop up.
-![Target Directory](./Images/target-dir.PNG)
-Now your files are ready!
+1. Select a folder as your target directory for the samples and click `clone` at the bottom right of the pop up. Now your files are ready!
 
 1. Select the `compute` tab and click on `+ New`
 ![New VM](./Images/newVM.PNG)
