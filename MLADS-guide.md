@@ -2,8 +2,8 @@
 ## Contents
 1. [Introduction](#Introduction)
 1. [Setup](#Setup)
-1. [Part 1 - Automated Machine Learning](#AutomatedML)
-1. [Part 2 - Hyperdrive](#HyperDrive)
+1. [Part 1 - Hyperdrive](#HyperDrive)
+1. [Part 2 - Automated Machine Learning](#AutomatedML)
 1. [Resources](#Acknowledgements)
 
 
@@ -17,7 +17,7 @@ This process accepts training data and configurations settings, and automaticall
 ## Setup
 
 Complete the following experiment set-up to prepare for the workshop
-1. Go to ml.azure.com and click "Sign in"
+1. Go to https://ml.azure.com and click "Sign in"
 1. Using the credentials given to you by a moderator, sign in to the studio.
 
 
@@ -34,6 +34,18 @@ Now your files are ready!
 1. Select the `compute` tab and click on `JupyterLab`. **Your compute should already be provisioned for you.** This will pop out a new tab.
 
 
+## HyperDrive
+
+1. In JupyterLabs, click through the following path **<your-alias>/samples/python/1.0.74/how-to-use-azureml/ml-frameworks/scikit-learn/train-hyperparameter-tune-deploy-with-sklearn** and open the **train-hyperparameter-tune-deploy-with-sklearn.ipynb** file.
+
+1. You can now run the notebook either by clicking the **play** icon in the top bar or by using **Shift+Enter** in the code cells of the notebook.
+
+1. The Jupyter notebook contains step by-step guidance on configuration, training and exploration of a machine learning model. **The rest of the Hyperdrive section contains supplemental conceptual material to the jupyter notebook.**
+
+> [!IMPORTANT]
+> In the third cell of your notebook, set
+`cluster_name` = `cpu-cluster`
+
 ## AutomatedML
     
 1. In JupyterLabs, click through the following path **<your-alias>/samples/how-to-use-azureml/automated-machine-learning/classification-bank-marketing-all-features** and open the **auto-ml-classification-bank-marketing-all-features.ipynb** file.
@@ -42,17 +54,6 @@ Now your files are ready!
 1. You can now run the notebook either by clicking the **play** icon in the top bar or by using **Shift+Enter** in the code cells of the notebook.
 
 1. The Jupyter notebook contains step by-step guidance on configuration, training and exploration of a machine learning model. **The rest of the AutomatedML section contains supplemental conceptual material to the jupyter notebook.**
-
-> [!IMPORTANT]
-> UPDATE THIS SECTION WHEN NEW NOTEBOOKS ARE IN / SLIDES ARE AVAILABLE
-
-## HyperDrive
-
-1. In JupyterLabs, click through the following path **<your-alias>/samples/how-to-use-azureml/ml-frameworks/scikit-learn/train-hyperparameter-tune-deploy-with-sklearn** and open the **train-hyperparameter-tune-deploy-with-sklearn.ipynb** file.
-
-1. You can now run the notebook either by clicking the **play** icon in the top bar or by using **Shift+Enter** in the code cells of the notebook.
-
-1. The Jupyter notebook contains step by-step guidance on configuration, training and exploration of a machine learning model. **The rest of the Hyperdrive section contains supplemental conceptual material to the jupyter notebook.**
 
 > [!IMPORTANT]
 > UPDATE THIS SECTION WHEN NEW NOTEBOOKS ARE IN / SLIDES ARE AVAILABLE
